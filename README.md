@@ -1,5 +1,5 @@
 # in-Malmoe-py
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://in-malmoe-py-home.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://in-malmoe.streamlit.app/)
 
 ## About
 **in-Malmoe** allows users to easily see the current state of the housing market in Malmö, Sweden. By using data scraped from various sources, the web app displays the prices, trends, and other relevant information about the housing market in an interactive and easy-to-understand way.
