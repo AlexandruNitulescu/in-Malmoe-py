@@ -19,8 +19,8 @@ def draw_line(df: pd.DataFrame, x_data: str, y_data: str, graph_title:str, x_axi
     return fig
 
 
-df = pd.read_csv('../in-Malmoe-py/resources/real_estate_index.csv', delimiter=";")
-df_inflation = pd.read_csv('../in-Malmoe-py/resources/inflation_rate.csv', delimiter=";")
+df = pd.read_csv('real_estate_index.csv', delimiter=";")
+df_inflation = pd.read_csv('inflation_rate.csv', delimiter=";")
 
 hlp.transform_dtype(df_inflation, 'KPI')
 hlp.transform_dtype(df_inflation, 'KPIF')

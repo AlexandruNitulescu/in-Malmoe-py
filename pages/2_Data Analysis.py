@@ -14,7 +14,7 @@ st.set_page_config(
 
 
 
-df = pd.read_csv('../in-Malmoe-py/resources/housing_data.csv', delimiter=";")
+df = pd.read_csv('housing_data.csv', delimiter=";")
 
 calc = hlp.Calculations(df)
 visualize = hlp.Visualize(df, hlp.COLOR_PALETTE)
