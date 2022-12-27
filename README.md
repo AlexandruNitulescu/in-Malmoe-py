@@ -6,7 +6,7 @@
 
 With this app, users can get a better understanding of the housing market in Malmö and make informed decisions about buying or selling a home. It is a valuable resource for anyone interested in the housing market in Malmö, whether they are a first-time homebuyer, a seasoned investor, or simply looking for educational information.
 
-- **Web app** - https://in-malmoe-py-home.streamlit.app/
+- **Web app** - https://in-malmoe.streamlit.app/
 - **Documentation (in progress)** - 
 - **Bug reports:** - https://github.com/AlexandruNitulescu/in-Malmoe-py/issues
 - **Contact:** - alexandru.florin.nitulescu@gmail.com
