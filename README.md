@@ -1,6 +1,5 @@
 # in-Malmoe-py
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://in-malmoe.streamlit.app/)
-Video Preview of the app: https://www.youtube.com/watch?v=IAECwYiBxu4
 ## About
 **in-Malmoe** allows users to easily see the current state of the housing market in Malmö, Sweden. By using data scraped from various sources, the web app displays the prices, trends, and other relevant information about the housing market in an interactive and easy-to-understand way.
 
@@ -10,7 +9,9 @@ With this app, users can get a better understanding of the housing market in Mal
 - **Documentation (in progress)** - 
 - **Bug reports:** - https://github.com/AlexandruNitulescu/in-Malmoe-py/issues
 - **Contact:** - alexandru.florin.nitulescu@gmail.com
+- **Video Preview of the app:** - https://www.youtube.com/watch?v=IAECwYiBxu4
 ____________
+
 ## Showcase
 ![page_1](https://user-images.githubusercontent.com/61834395/209636075-6679b809-f2bb-4335-b934-27e091ce634b.PNG)
 ![page_2](https://user-images.githubusercontent.com/61834395/209636079-abe3e73b-18af-45c2-a25c-bd048ef379ea.PNG)
